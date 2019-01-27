@@ -1,4 +1,4 @@
-# OOP-with-python-world-
+# OOP-with-python
 simulation of a world of zones contaning people and calculate average agreeableness of each zone (openclassrooms project)
 
 ### steps
