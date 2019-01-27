@@ -194,7 +194,6 @@ def main():
 
 
     for agent_attribute in data :
-        print(agent_attribute.items())
         longitude = agent_attribute.pop("longitude")
         latitude = agent_attribute.pop("latitude")
         position = Position(longitude, latitude)
